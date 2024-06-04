@@ -6,4 +6,4 @@
 --run the project
   --run the code  "npm run dev" in the terminal
 
-  Hope you liked it:)
+  Hope you liked it :)
